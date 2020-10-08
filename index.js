@@ -37,7 +37,10 @@ router.get("/api/users", (req, res) => {
 
 router.post("/api/user/create", (req, res) => {
   const user = req.body;
-  const id = parseInt(jsonData.users[jsonData.users.length - 1].id);
+  const id =
+    jsonData.users.length > 0
+      ? parseInt(jsonData.users[jsonData.users.length - 1].id)
+      : 0;
   const newId = id + 1;
   const newUser = {
     id: newId,
