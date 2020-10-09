@@ -1,1 +1,39 @@
-{"users":[{"id":2,"firstName":"Nick","lastName":"Fury","email":"nick.fury@gmail.com","dob":1595493789},{"id":3,"firstName":"Steve","lastName":"Rogers","email":"steve.rogers@gmail.com","dob":1595493789},{"id":4,"firstName":"Natasha","lastName":"Romanoff","email":"natasha.romanoff@gmail.com","dob":1595493789},{"id":5,"firstName":"Stephen","lastName":"Strange","email":"stephen.strange@gmail.com","dob":1595493789},{"id":6,"firstName":"Oops","lastName":"Stalin","email":"tony.stark@gmail.com","dob":1595493789},{"id":7,"firstName":"Donald","lastName":"Trump","email":"tony.stark@gmail.com","dob":1595493789}]}
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Nick",
+      "lastName": "Fury",
+      "email": "nick.fury@gmail.com",
+      "dob": 1595493789
+    },
+    {
+      "id": 2,
+      "firstName": "Steve",
+      "lastName": "Rogers",
+      "email": "steve.rogers@gmail.com",
+      "dob": 1595493789
+    },
+    {
+      "id": 3,
+      "firstName": "Natasha",
+      "lastName": "Romanoff",
+      "email": "natasha.romanoff@gmail.com",
+      "dob": 1595493789
+    },
+    {
+      "id": 4,
+      "firstName": "Stephen",
+      "lastName": "Strange",
+      "email": "stephen.strange@gmail.com",
+      "dob": 1595493789
+    },
+    {
+      "id": 5,
+      "firstName": "Tony",
+      "lastName": "Start",
+      "email": "tony.stark@gmail.com",
+      "dob": 1595493789
+    }
+  ]
+}
